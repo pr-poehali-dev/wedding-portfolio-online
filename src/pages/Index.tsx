@@ -94,7 +94,7 @@ const Index = () => {
                   alt="Александр - свадебный видеограф" 
                   className="rounded-lg shadow-2xl grayscale hover:grayscale-0 transition-all duration-500"
                 />
-                <div className="absolute inset-0 bg-cinematic-red/20 rounded-lg opacity-0 hover:opacity-100 transition-opacity duration-500"></div>
+                <div className="absolute inset-0 bg-cinematic-red/20 rounded-lg opacity-0 hover:opacity-100 transition-opacity duration-500 mx-0"></div>
               </div>
             </div>
           </div>

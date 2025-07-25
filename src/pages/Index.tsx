@@ -227,11 +227,11 @@ const Index = () => {
           
           <div className="grid md:grid-cols-3 gap-8">
             <Card className="bg-cinematic-black border-cinematic-white/20 p-8 text-center">
-              <h3 className="font-cormorant text-2xl font-bold text-cinematic-white mb-4">Базовый</h3>
-              <div className="text-4xl font-bold text-cinematic-red mb-6">от 80 000₽</div>
+              <h3 className="font-cormorant text-2xl font-bold text-cinematic-white mb-4">Часовой</h3>
+              <div className="text-4xl font-bold text-cinematic-red mb-6">3500/час</div>
               <ul className="text-cinematic-white/80 space-y-3 mb-8">
-                <li>6 часов съемки</li>
-                <li>Свадебный фильм 5-7 минут</li>
+                <li>от часа сьемки</li>
+                <li>Рилс + фото и исходники</li>
                 <li>Цветокоррекция</li>
                 <li>Музыкальное сопровождение</li>
               </ul>
@@ -241,14 +241,14 @@ const Index = () => {
             </Card>
             
             <Card className="bg-cinematic-red p-8 text-center transform scale-105">
-              <h3 className="font-cormorant text-2xl font-bold text-cinematic-white mb-4">Премиум</h3>
-              <div className="text-4xl font-bold text-cinematic-white mb-6">от 120 000₽</div>
+              <h3 className="font-cormorant text-2xl font-bold text-cinematic-white mb-4">Базовый</h3>
+              <div className="text-4xl font-bold text-cinematic-white mb-6">14.000</div>
               <ul className="text-cinematic-white/90 space-y-3 mb-8">
-                <li>8 часов съемки</li>
-                <li>Свадебный фильм 8-12 минут</li>
-                <li>Love Story (предсвадебная съемка)</li>
-                <li>Профессиональная цветокоррекция</li>
-                <li>Индивидуальная музыка</li>
+                <li>4 часа съемки</li>
+                <li>3 рилс + фото и исходники</li>
+                <li></li>
+                <li>Цветокоррекция</li>
+                <li>Музыкальное сопровождение</li>
               </ul>
               <Button className="w-full bg-cinematic-white text-cinematic-red hover:bg-cinematic-white/90">
                 Выбрать
@@ -256,14 +256,14 @@ const Index = () => {
             </Card>
             
             <Card className="bg-cinematic-black border-cinematic-white/20 p-8 text-center">
-              <h3 className="font-cormorant text-2xl font-bold text-cinematic-white mb-4">VIP</h3>
-              <div className="text-4xl font-bold text-cinematic-red mb-6">от 180 000₽</div>
+              <h3 className="font-cormorant text-2xl font-bold text-cinematic-white mb-4">Большой</h3>
+              <div className="text-4xl font-bold text-cinematic-red mb-6">22.000</div>
               <ul className="text-cinematic-white/80 space-y-3 mb-8">
-                <li>Полный день съемки</li>
-                <li>Расширенный фильм 15-20 минут</li>
-                <li>Love Story + утро невесты</li>
-                <li>Киноуровень постпродакшена</li>
-                <li>Индивидуальный сценарий</li>
+                <li>8 часов, дополнительно + 3500/час</li>
+                <li>6-8-рилс + фото и исходники</li>
+                <li></li>
+                <li></li>
+                <li>Утро невесты, регистрация, банкет</li>
               </ul>
               <Button className="w-full bg-cinematic-red hover:bg-cinematic-red/90">
                 Выбрать

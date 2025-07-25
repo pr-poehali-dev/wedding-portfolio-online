@@ -90,8 +90,8 @@ const Index = () => {
             <div className="animate-scale-in">
               <div className="relative">
                 <img 
-                  src="/img/9afe6415-f8e6-4bc3-9cc0-0575d18d38e7.jpg" 
-                  alt="Александр - свадебный видеограф" 
+                  src="https://cdn.poehali.dev/files/202bf614-81ff-4d95-b664-09f89a88441f.jpg" 
+                  alt="Вероника - свадебный видеограф" 
                   className="rounded-lg shadow-2xl grayscale hover:grayscale-0 transition-all duration-500"
                 />
                 <div className="absolute inset-0 bg-cinematic-red/20 rounded-lg opacity-0 hover:opacity-100 transition-opacity duration-500 mx-0"></div>

@@ -74,16 +74,16 @@ const Index = () => {
               </p>
               <div className="flex items-center space-x-8">
                 <div className="text-center">
-                  <div className="font-cormorant text-4xl font-bold text-cinematic-red">150+</div>
-                  <div className="text-sm">Свадеб снято</div>
+                  <div className="font-cormorant text-4xl font-bold text-cinematic-red"></div>
+                  <div className="text-sm"></div>
                 </div>
                 <div className="text-center">
-                  <div className="font-cormorant text-4xl font-bold text-cinematic-red">8</div>
-                  <div className="text-sm">Лет опыта</div>
+                  <div className="font-cormorant text-4xl font-bold text-cinematic-red"></div>
+                  <div className="text-sm"></div>
                 </div>
                 <div className="text-center">
-                  <div className="font-cormorant text-4xl font-bold text-cinematic-red">100%</div>
-                  <div className="text-sm">Довольных пар</div>
+                  <div className="font-cormorant text-4xl font-bold text-cinematic-red"></div>
+                  <div className="text-sm"></div>
                 </div>
               </div>
             </div>
